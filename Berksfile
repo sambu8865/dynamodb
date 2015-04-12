@@ -1,3 +1,2 @@
-site :opscode
-cookbook 'dynamodb-local'
+cookbook 'dynamodb-local', '~> 0.1.0'
 

@@ -1,3 +1,3 @@
 site :opscode
-cookbook 'dynamodb'
+cookbook 'dynamodb-local'
 
